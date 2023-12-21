@@ -10,5 +10,5 @@ PRTG Custom OID Libraries (MIBs) for various devices
 ## Using
 1. Create a device object in PRTG
 2. Select "Add Sensor"
-3. Search for and select "snmp library"
+3. Search for and select "SNMP library"
 4. Click the name of the imported custom library
