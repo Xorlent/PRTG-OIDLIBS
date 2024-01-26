@@ -17,5 +17,5 @@ PRTG Custom OID Libraries (MIBs) and device templates for various devices
 4. Click the name of the imported custom library
 ### If the ZIP contained a /devicetemplates folder
 1. Create a device object in PRTG
-2. Select Autodiscovery with Device Template
+2. Select "Autodiscovery" and choose "Autodiscovery with Device Template"
 3. Choose the name of the imported device template
